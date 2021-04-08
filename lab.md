@@ -15,3 +15,9 @@
 
 # output for site
 ![example03](/pics/example03p2.png)
+
+# output for example 04
+![example03](/pics/example04.png)
+
+# output for site
+![example03](/pics/example04p2.png)
